@@ -52,7 +52,7 @@ const questions = [
       { text: "IT-Drift", correct: false },
       { text: "IT-Utvikler", correct: true },
     ],
-    imageUrl: 'https://images.pexels.com/photos/249798/pexels-photo-249798.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    imageUrl: 'https://images.pexels.com/photos/249798/pexels-photo-249798.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/400/200',
     altText: 'Beskrivelse av bilde'
   },
   // Kopier malen over for å legge til flere spørsmål. Husk å endre antall spørsmål øverst.
