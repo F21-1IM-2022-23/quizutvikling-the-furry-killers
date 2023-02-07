@@ -43,7 +43,7 @@ const questions = [
       { text: "React et programmeringsspråk", correct: false },
       { text: "React et JavaScript-bibliotek", correct: true }
     ],
-    imageUrl: 'https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/400/100',
+    imageUrl: 'https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/200',
     altText: 'Beskrivelse av bilde'
   },
   {
