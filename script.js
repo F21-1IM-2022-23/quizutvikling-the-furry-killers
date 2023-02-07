@@ -37,13 +37,13 @@ const questions = [
     altText: 'Beskrivelse av bilde'
   },
   {
-    question: "[Skriv spørsmål 4 her]?",
+    question: "[Hva er dette?]?",
     options: [
-      { text: "Alternativ .", correct: true },
-      { text: "Alternativ ..", correct: false },
-      { text: "Alternativ ...", correct: false }
+      { text: "Atom et programmeringsspråk", correct: false },
+      { text: "React et programmeringsspråk", correct: false },
+      { text: "React et JavaScript-bibliotek", correct: true }
     ],
-    imageUrl: 'https://unsplash.it/400/200',
+    imageUrl: 'https://www.pexels.com/nb-no/bilde/uskarphet-bokeh-holde-bakgrunn-11035471/',
     altText: 'Beskrivelse av bilde'
   },
   {
