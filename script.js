@@ -43,7 +43,7 @@ const questions = [
       { text: "React et programmeringsspråk", correct: false },
       { text: "React et JavaScript-bibliotek", correct: true }
     ],
-    imageUrl: 'https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg/',
+    imageUrl: 'https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/400/100',
     altText: 'Beskrivelse av bilde'
   },
   {
@@ -52,7 +52,7 @@ const questions = [
       { text: "IT-Drift", correct: false },
       { text: "IT-Utvikler", correct: true },
     ],
-    imageUrl: 'https://images.pexels.com/photos/249798/pexels-photo-249798.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/400/200',
+    imageUrl: 'https://images.pexels.com/photos/249798/pexels-photo-249798.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/400/100',
     altText: 'Beskrivelse av bilde'
   },
   // Kopier malen over for å legge til flere spørsmål. Husk å endre antall spørsmål øverst.
