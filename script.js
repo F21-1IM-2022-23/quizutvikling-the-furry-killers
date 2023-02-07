@@ -43,7 +43,7 @@ const questions = [
       { text: "React et programmeringsspråk", correct: false },
       { text: "React et JavaScript-bibliotek", correct: true }
     ],
-    imageUrl: 'https://www.pexels.com/nb-no/bilde/uskarphet-bokeh-holde-bakgrunn-11035471/',
+    imageUrl: 'https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg/400/200',
     altText: 'Beskrivelse av bilde'
   },
   {
