@@ -7,7 +7,7 @@ const questions = [
     ]
   },
   {
-    question: "[Skriv spørsmål 1 her]?",
+    question: "Hvor mye kan du om koding",
     options: [
       { text: "Alternativ 1", correct: true }, //"true" = riktig svar. Skriv det inn i ulike linjer for å endre hvilken knapp som er riktig
       { text: "Alternativ 2", correct: false }, //Legg til eller fjern så mange svaralternativ som dere ønsker.
