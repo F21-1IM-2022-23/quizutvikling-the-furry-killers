@@ -19,7 +19,7 @@ const questions = [
   {
     question: "hva gjør en funksjon?",
     options: [
-      { text: "Funksjoner kan lages for å gjøre spesifikke ting og brukes om igjen, slik at man slipper å skrive samme kode flere ganger.", correct: true },
+      { text: "Funksjoner kan lages for å gjøre spesifikke ting og brukes om igjen", correct: true },
       { text: "Funksjoner bare gir mening", correct: false },
       { text: "Spør meg om noe vanskeligere", correct: true }
     ],
