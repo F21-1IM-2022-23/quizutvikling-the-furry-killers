@@ -7,21 +7,21 @@ const questions = [
     ]
   },
   {
-    question: "Hvor mye kan du om koding",
+    question: "Hvor mye kan du om koding?",
     options: [
       { text: "Litt", correct: true }, //"true" = riktig svar. Skriv det inn i ulike linjer for å endre hvilken knapp som er riktig
-      { text: "Litt mer", correct: true }, //Legg til eller fjern så mange svaralternativ som dere ønsker.
+      { text: "Greit", correct: true }, //Legg til eller fjern så mange svaralternativ som dere ønsker.
       { text: "Alt", correct: true } //Siste spørsmålslinje skal ikke ha komma.
     ],
     imageUrl: 'https://unsplash.it/400/200', //bytt ut med en ny bildeaddresse for hvert spørsmål. 400 og 200 er størrelsen i pixler.
     altText: 'Beskrivelse av bilde'
   },
   {
-    question: "[Skriv spørsmål 2 her]?",
+    question: "hva gjør en funksjon?",
     options: [
-      { text: "Alternativ I", correct: true },
-      { text: "Alternativ II", correct: false },
-      { text: "Alternativ III", correct: false }
+      { text: "Funksjoner kan lages for å gjøre spesifikke ting og brukes om igjen, slik at man slipper å skrive samme kode flere ganger.", correct: true },
+      { text: "Funksjoner bare gir mening", correct: false },
+      { text: "Spør meg om noe vanskeligere", correct: true }
     ],
     imageUrl: 'https://unsplash.it/400/200',
     altText: 'Beskrivelse av bilde'
