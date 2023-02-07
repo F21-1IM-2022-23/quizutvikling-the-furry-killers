@@ -47,13 +47,12 @@ const questions = [
     altText: 'Beskrivelse av bilde'
   },
   {
-    question: "",
+    question: "Hvilken av disse har mer programmering?",
     options: [
-      { text: "Alternativ -", correct: true },
-      { text: "Alternativ +", correct: false },
-      { text: "Alternativ x", correct: false }
+      { text: "IT-Drift", correct: false },
+      { text: "IT-Utvikler", correct: true },
     ],
-    imageUrl: 'https://unsplash.it/400/200',
+    imageUrl: 'https://images.pexels.com/photos/249798/pexels-photo-249798.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     altText: 'Beskrivelse av bilde'
   },
   // Kopier malen over for å legge til flere spørsmål. Husk å endre antall spørsmål øverst.
