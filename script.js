@@ -37,17 +37,17 @@ const questions = [
     altText: 'Beskrivelse av bilde'
   },
   {
-    question: "[Hva er dette?]?",
+    question: "Hva er dette?",
     options: [
       { text: "Atom et programmeringsspråk", correct: false },
       { text: "React et programmeringsspråk", correct: false },
       { text: "React et JavaScript-bibliotek", correct: true }
     ],
-    imageUrl: 'https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg/400/200',
+    imageUrl: 'https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg/',
     altText: 'Beskrivelse av bilde'
   },
   {
-    question: "[Skriv spørsmål 5 her]?",
+    question: "",
     options: [
       { text: "Alternativ -", correct: true },
       { text: "Alternativ +", correct: false },
